@@ -1,5 +1,5 @@
-let balance = 0;
-let name = `John Doe`;
+let balance = 1000;
+let name = `George Brown`;
 
 
 // Greet the user by name
